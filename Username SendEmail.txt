@@ -1,0 +1,5 @@
+Username dùng để test trong bài này là
+sendemailtestnt106.o21@gmail.com
+
+Password là password dùng để truy cập ứng dụng bên thứ 3 của google, nên giữ mặc định
+gtrvscvbmeteywod
